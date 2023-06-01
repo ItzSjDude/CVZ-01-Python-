@@ -10,4 +10,4 @@ Api_id = ''
 Api_hash = ''
 bot_token = ''
 
-bot = TelegramClient('BotzHub', Api_id, Api_hash).start(bot_token=bot_token) 
+bot = TelegramClient('Cvzbot', Api_id, Api_hash).start(bot_token=bot_token) 
